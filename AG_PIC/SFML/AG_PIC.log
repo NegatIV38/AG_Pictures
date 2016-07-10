@@ -1,0 +1,51 @@
+﻿La génération a démarré 10/07/2016 12:14:24.
+     1>Projet "D:\VSProj\AG_PIC\AG_PIC\AG_PIC.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\SFML32\SFML-2.3.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"SFML\\" /Fd"SFML\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(87): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(90): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(148): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(164): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(165): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(166): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(192): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(195): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(202): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(209): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(221): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(227): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(289): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(298): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(309): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(312): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(314): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(360): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(361): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(371): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(378): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(391): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(462): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(463): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(468): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(470): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(481): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(489): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(499): warning C4244: 'initialisation' : conversion de 'time_t' en 'int', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(500): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(527): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(531): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(541): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(551): warning C4018: '<' : incompatibilité signed/unsigned
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(600): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(561): warning C4101: 'b' : variable locale non référencée
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(561): warning C4101: 'g' : variable locale non référencée
+     1>d:\vsproj\ag_pic\ag_pic\source.cpp(561): warning C4101: 'r' : variable locale non référencée
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VSProj\AG_PIC\SFML\AG_PIC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\SFML32\SFML-2.3.1\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VSProj\AG_PIC\SFML\AG_PIC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VSProj\AG_PIC\SFML\AG_PIC.lib" /MACHINE:X86 SFML\Source.obj
+         AG_PIC.vcxproj -> D:\VSProj\AG_PIC\SFML\AG_PIC.exe
+     1>Génération du projet "D:\VSProj\AG_PIC\AG_PIC\AG_PIC.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.11
